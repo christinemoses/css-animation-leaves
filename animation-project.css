@@ -1,0 +1,151 @@
+body {
+  height: auto;
+  width: auto;
+  background-color: #009900;
+  background-position: center;
+  text-align: center;
+}
+
+@keyframes slidein {
+  from {
+    top: 0px;
+  }
+
+  to {
+    top: 700px;
+  }
+}
+
+.leaf1 {
+  animation-duration: 5s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 100px;
+}
+
+.leaf2 {
+  animation-duration: 6s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 300px;
+}
+
+.leaf3 {
+  animation-duration: 8s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 500px;
+}
+
+.leaf4 {
+  animation-duration: 6s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 700px;
+}
+
+.leaf5 {
+  animation-duration: 7s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 900px;
+}
+
+.leaf6 {
+  animation-duration: 7s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 200px;
+}
+
+.leaf7 {
+  animation-duration: 7s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 400px;
+}
+
+.leaf8 {
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 600px;
+}
+
+.leaf9 {
+  animation-duration: 4s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 800px;
+}
+
+.leaf10 {
+  animation-duration: 9s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 850px;
+}
+
+.leaf11 {
+  animation-duration: 7s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 650px;
+}
+
+.leaf12 {
+  animation-duration: 4s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 450px;
+}
+
+.leaf13 {
+  animation-duration: 8s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 250px;
+}
+
+.leaf14 {
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 150px;
+}
+
+.leaf15 {
+  animation-duration: 7s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 50px;
+}
+
+
+h1 {
+  font-family: 'Londrina Sketch', cursive;
+  font-size: 45px;
+  color: white;
+}
+
+h2 {
+  font-family: 'Londrina Solid', cursive;
+  font-size: 28px;
+  color: white;
+}
+
