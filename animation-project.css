@@ -8,7 +8,7 @@ body {
 
 @keyframes slidein {
   from {
-    top: 0px;
+    top: -200px;
   }
 
   to {
@@ -17,75 +17,75 @@ body {
 }
 
 .leaf1 {
-  animation-duration: 5s;
+  animation-duration: 11s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 50px;
+}
+
+.leaf2 {
+  animation-duration: 9s;
   animation-name: slidein;
   animation-iteration-count: infinite;
   position: absolute;
   left: 100px;
 }
 
-.leaf2 {
-  animation-duration: 6s;
-  animation-name: slidein;
-  animation-iteration-count: infinite;
-  position: absolute;
-  left: 300px;
-}
-
 .leaf3 {
-  animation-duration: 8s;
+  animation-duration: 7s;
   animation-name: slidein;
   animation-iteration-count: infinite;
   position: absolute;
-  left: 500px;
+  left: 150px;
 }
 
 .leaf4 {
-  animation-duration: 6s;
-  animation-name: slidein;
-  animation-iteration-count: infinite;
-  position: absolute;
-  left: 700px;
-}
-
-.leaf5 {
-  animation-duration: 7s;
-  animation-name: slidein;
-  animation-iteration-count: infinite;
-  position: absolute;
-  left: 900px;
-}
-
-.leaf6 {
-  animation-duration: 7s;
+  animation-duration: 12s;
   animation-name: slidein;
   animation-iteration-count: infinite;
   position: absolute;
   left: 200px;
 }
 
+.leaf5 {
+  animation-duration: 15s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 250px;
+}
+
+.leaf6 {
+  animation-duration: 10s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 300px;
+}
+
 .leaf7 {
-  animation-duration: 7s;
+  animation-duration: 16s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 350px;
+}
+
+.leaf8 {
+  animation-duration: 8s;
   animation-name: slidein;
   animation-iteration-count: infinite;
   position: absolute;
   left: 400px;
 }
 
-.leaf8 {
-  animation-duration: 3s;
-  animation-name: slidein;
-  animation-iteration-count: infinite;
-  position: absolute;
-  left: 600px;
-}
-
 .leaf9 {
-  animation-duration: 4s;
+  animation-duration: 12s;
   animation-name: slidein;
   animation-iteration-count: infinite;
   position: absolute;
-  left: 800px;
+  left: 450px;
 }
 
 .leaf10 {
@@ -93,51 +93,83 @@ body {
   animation-name: slidein;
   animation-iteration-count: infinite;
   position: absolute;
-  left: 850px;
+  left: 500px;
 }
 
 .leaf11 {
+  animation-duration: 15s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 550px;
+}
+
+.leaf12 {
   animation-duration: 7s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 600px;
+}
+
+.leaf13 {
+  animation-duration: 12s;
   animation-name: slidein;
   animation-iteration-count: infinite;
   position: absolute;
   left: 650px;
 }
 
-.leaf12 {
-  animation-duration: 4s;
-  animation-name: slidein;
-  animation-iteration-count: infinite;
-  position: absolute;
-  left: 450px;
-}
-
-.leaf13 {
-  animation-duration: 8s;
-  animation-name: slidein;
-  animation-iteration-count: infinite;
-  position: absolute;
-  left: 250px;
-}
-
 .leaf14 {
-  animation-duration: 3s;
+  animation-duration: 10s;
   animation-name: slidein;
   animation-iteration-count: infinite;
   position: absolute;
-  left: 150px;
+  left: 700px;
 }
 
 .leaf15 {
+  animation-duration: 9s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 750px;
+}
+
+.leaf16 {
   animation-duration: 7s;
   animation-name: slidein;
   animation-iteration-count: infinite;
   position: absolute;
-  left: 50px;
+  left: 800px;
 }
 
-.leaf16 {
-  animation-duration: 9s;
+.leaf17 {
+  animation-duration: 15s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 850px;
+}
+
+.leaf18 {
+  animation-duration: 10s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 900px;
+}
+
+.leaf19 {
+  animation-duration: 12s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 950px;
+}
+
+.leaf20 {
+  animation-duration: 16s;
   animation-name: slidein;
   animation-iteration-count: infinite;
   position: absolute;
