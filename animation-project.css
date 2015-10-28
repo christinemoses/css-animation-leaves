@@ -136,6 +136,13 @@ body {
   left: 50px;
 }
 
+.leaf16 {
+  animation-duration: 9s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  position: absolute;
+  left: 950px;
+}
 
 h1 {
   font-family: 'Londrina Sketch', cursive;
